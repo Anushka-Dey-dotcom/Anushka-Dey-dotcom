@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anushka+Dey;Welcome+to+my+GitHub+Profile+!!;I+love+building+creative+%26+impactful+code+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anushka+Dey;Welcome+to+my+GitHub+Profile+!!;building+creative+%26+impactful+code+!" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,8 +22,7 @@
 
 ---
 
-### 📊 GitHub Stats (Optional - Add only if you want)
-
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Dey-dotcom&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-Dey-dotcom&theme=radical" width="400"/>
